@@ -1,4 +1,4 @@
-module github.com/MicahParks/keyfunc/v2
+module github.com/BeProductable/keyfunc
 
 go 1.18
 

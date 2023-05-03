@@ -5,8 +5,8 @@ import (
 
 	"github.com/golang-jwt/jwt/v5"
 
-	"github.com/MicahParks/keyfunc/v2"
-	"github.com/MicahParks/keyfunc/v2/examples/custom/method"
+	"github.com/BeProductable/keyfunc"
+	"github.com/BeProductable/keyfunc/examples/custom/method"
 )
 
 func main() {
